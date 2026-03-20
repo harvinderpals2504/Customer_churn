@@ -1,4 +1,4 @@
-﻿# Customer_churn
+﻿# Bank_Customer_churn_Analysis
 
 ## Overview
 This project analyzes customer churn in the banking sector using logistic regression.
